@@ -50,7 +50,7 @@ MangiaBene/
 ```
 
 - **Branch `main`**: Java service code (IntelliJ IDEA project).
-- **Branch `web`**: React application (WebStorm project) located in the `client` folder.
+- **Branch `web`**: React application (WebStorm project).
 
 ---
 
@@ -154,7 +154,7 @@ MangiaBene/
 ```
 
 - **Ветка `main`**: Код службы Java (проект IntelliJ IDEA).
-- **Ветка `web`**: Приложение React (проект WebStorm), расположенное в папке `client`.
+- **Ветка `web`**: Приложение React (проект WebStorm).
 
 ---
 
